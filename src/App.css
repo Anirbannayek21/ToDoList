@@ -88,11 +88,11 @@ ol li{
 }
 .delete{
   min-height: 15px;
-  width: 18px;
+  width: 25px;
   border-radius: 50%;
   border-color: transparent;
   background-color: #8566aa;
-  font-size:15px;
+  font-size:5px;
   color: #fff;
   border: none;
   outline: none;
@@ -101,7 +101,8 @@ ol li{
 }
 
 .delete:hover{
-  background-color: crimson;
+  color: crimson;
+  background-color: #fff;
 }
 
 
